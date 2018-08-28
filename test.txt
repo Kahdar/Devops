@@ -1,0 +1,14 @@
+Hi
+
+This a Devops text file.
+
+you have to practive GIT commands.
+
+Commands like:
+git clone
+git status
+git add
+git commit
+git rm
+git branch
+
